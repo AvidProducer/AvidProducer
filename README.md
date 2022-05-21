@@ -1,5 +1,5 @@
 # Hi there
-- 👋 I’m Oleksiy Dikalovych, i have 6 years of experience as a system administrator for TV
+-  I’m Oleksiy Dikalovych, i have 6 years of experience as a system administrator for TV
 -  I’m interested and currently learning Python programming language
 
 <p align='center'>
