@@ -1,5 +1,5 @@
 # Hi there, 
-I’m Oleksiy, i have 6 years of experience as a system administrator for TV, interested and currently learning Python programming language
+I’m Oleksiy, I have 6 years of experience as a system administrator for TV, I’m interested and currently learning Python programming language
 -  ## 🛠 Technical Skills
 *   WMvare, vCenter, Veeam backup (virtualization);
 *   Icinga, nagios, prtg (monitoring system);
