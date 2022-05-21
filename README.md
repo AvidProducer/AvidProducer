@@ -1,6 +1,6 @@
 # Hi there
 - 👋 I’m Oleksiy Dikalovych, i have 6 years of experience as a system administrator for TV
-- 🌱 I’m interested and currently learning Python programming language
+-  I’m interested and currently learning Python programming language
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/oleksiy-dikalovych-16613b19a/">
